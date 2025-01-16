@@ -1,6 +1,6 @@
 ---
-short_name: ted
-name: Ted Doe
+short_name: Lorenzo
+name: Lorenzo Kim
 position: Writer
 ---
-Ted has been eating fruit since he was baby.
+Lawrence has been writing code since he was baby.

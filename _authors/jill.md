@@ -1,6 +1,6 @@
 ---
-short_name: jill
-name: Jill Smith
+short_name: Kim
+name: Lawrence Kimutai
 position: Chief Editor
 ---
-Jill is an avid fruit grower based in the south of France.
+Kim is a geospatial developer in Kenya.
